@@ -1,1 +1,1 @@
-# dev-jsdelivr
+# dev-picgo-jsdelivr
